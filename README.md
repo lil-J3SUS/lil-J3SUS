@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lil-J3SUS
-- Informatics Student at HTL Spengergasse and freelancer based in Vienna.
+- Software engineering & computer science Student at HTL Spengergasse and freelancer based in Vienna.
 - 👀 I’m interested in most things.
 - 🌱 I’m currently learning many different things.
 - 📫 How to reach me: 
