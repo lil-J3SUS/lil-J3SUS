@@ -3,6 +3,7 @@
 - 👀 I’m interested in most things.
 - 🌱 I’m currently learning many different things.
 - 📫 How to reach me: 
+- Website: https://philipp-ladich.com/
 - Email: p.la@gmx.at
 
 <!---
